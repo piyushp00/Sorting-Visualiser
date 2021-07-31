@@ -5,6 +5,8 @@
   flex-direction: column reverse;
   align-items: flex-end;
   transition: 125ms ease-in-out;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 .Bar__Text {
