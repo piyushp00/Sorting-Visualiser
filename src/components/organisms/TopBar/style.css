@@ -13,7 +13,7 @@
   flex-direction: column;
   justify-content: space-between;
   width: 100%;
-
+  
   background-color: var(--background-color-3);
   z-index: 105;
   box-shadow: var(--elevation-umbra-4) var(--elevation-umbra-color),
@@ -74,7 +74,8 @@
   text-decoration: inherit;
   text-transform: inherit;
   color: #0c8277;
-  padding-left: var(--top-bar-title-left-padding);
+  padding: 5px;
+  margin-left: 10px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;

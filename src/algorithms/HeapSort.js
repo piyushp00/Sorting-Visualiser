@@ -117,7 +117,7 @@ export const HeapSortDesc = {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Heap Sort
+          HeapSort
         </a>{' '}
         can be thought of as an improved selection sort that uses the
         heap data structure rather than a linear-time search to find the
@@ -126,7 +126,7 @@ export const HeapSortDesc = {
         Quicksort in practice.
       </p>
       <p>
-        The heapsort algorithm can be divided into two parts. In the
+        The heap sort algorithm can be divided into two parts. In the
         first step, a heap is built out of the data. The heap is often
         placed in an array with the layout of a complete binary tree. In
         the second step, a sorted array is created by repeatedly
